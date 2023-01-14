@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.0.
 
+Este proyecto se trata de la primera entrega, donde se trabaja con los componentes de Angular. En esta oportunidad, he desarrollado una app de turismo donde se pueden visualizar paquetes de viaje.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
