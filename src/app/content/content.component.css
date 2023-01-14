@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+
+    background-color: #2DD881;
+}
+
+.card{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.btn{
+    background-color: #6FEDB7;
+}

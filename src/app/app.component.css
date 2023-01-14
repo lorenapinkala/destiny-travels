@@ -1,0 +1,21 @@
+.grid-container{
+    display: grid;
+    grid-template-areas:
+    'header header header header header header header'
+    'menu   menu    main  main   main   main    main';
+
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.grid-header{
+    grid-area: header;
+}
+
+.grid-menu{
+    grid-area: menu;
+    background-color: aqua;
+}
+
+.grid-content{
+    grid-area: main;
+}
