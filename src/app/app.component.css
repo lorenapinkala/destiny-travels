@@ -2,7 +2,7 @@
     display: grid;
     grid-template-areas:
     'header header header header header header header'
-    'menu   menu    main  main   main   main    main';
+    'menu   main    main  main   main   main    main';
 
     font-family: Roboto, Arial, Helvetica, sans-serif;
 }
@@ -13,7 +13,8 @@
 
 .grid-menu{
     grid-area: menu;
-    background-color: aqua;
+    background-color: #CDC7E5;
+    width: 230px;
 }
 
 .grid-content{
