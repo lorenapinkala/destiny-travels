@@ -2,7 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.0.
 
-Este proyecto se trata de la primera entrega, donde se trabaja con los componentes de Angular. En esta oportunidad, he desarrollado una app de turismo donde se pueden visualizar paquetes de viaje.
+Este proyecto se trata de la primera entrega, donde se trabaja con los componentes de Angular. En esta oportunidad, he desarrollado una app de turismo donde se pueden visualizar paquetes de viaje. Está compuesto por tres componentes:
+- sidebar (menu)
+- navbar
+-content
+Estos componentes fueron creados con el comando ng generate component <nombre>, el cual es propio del CLI de Angular.
 
 ## Development server
 
