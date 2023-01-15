@@ -7,3 +7,7 @@ nav{
     background-color: #3066BE;
     color: beige;
 }
+li:hover{
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
